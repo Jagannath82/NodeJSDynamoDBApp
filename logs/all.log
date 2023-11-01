@@ -1,0 +1,8 @@
+2023-10-30 15:09:11:911 [32minfo[39m: [32mUser details[39m
+2023-10-30 15:09:11:911 [31merror[39m: [31mUser details[39m
+2023-10-30 15:10:49:1049 [32minfo[39m: [32mUser details[object Object][39m
+2023-10-30 15:33:52:3352 [32minfo[39m: [32mUser details retired[39m
+2023-10-30 15:48:53:4853 [32minfo[39m: [32mUser details retired[39m
+2023-10-30 15:51:21:5121 [32minfo[39m: [32mUser details retired[39m
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser details retired\u001b[39m","timestamp":"2023-10-30 15:52:12:5212"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser details retired\u001b[39m","timestamp":"2023-10-31 23:26:46:2646"}
